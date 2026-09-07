@@ -1,1 +1,1 @@
-4.180.183.240 {"recommendedHublet":"eu1","availableHublets":["eu1"]}
+172.210.53.230 {"recommendedHublet":"na2","availableHublets":["na2"]}
